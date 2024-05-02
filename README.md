@@ -16,7 +16,7 @@ Follow these instructions to set up the project on your local machine for develo
 
 3. Clone the repository:
 ```
-git clone [link]
+git clone https://github.com/keentechcodes/bed-no-breakfast-phpsql
 ```
 
 5. Import `bnb_db.sql` to your MySQL database to set up the required database and tables.
